@@ -1,0 +1,12 @@
+# Ignore environments
+**/venv/
+**/venv_311/
+**/node_modules/
+
+# Ignore specific large data files but NOT the code
+**/chroma_db/
+.env
+__pycache__/
+*.pyc
+
+# DO NOT put 'backend/' or 'frontend/' here alone
