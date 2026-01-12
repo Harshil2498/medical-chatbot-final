@@ -1,7 +1,8 @@
-# Ignore environments
 **/venv/
 **/venv_311/
 **/node_modules/
+backend/venv/
+backend/venv_311/
 
 # Ignore specific large data files but NOT the code
 **/chroma_db/
